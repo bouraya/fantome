@@ -38,4 +38,34 @@ Le texte barré utilise deux ~~tildes~~(alt gr 2 )
 
 
 
-Une ligne de separation avec 3 tirets (la balise <hr/>  en HTML
+Une ligne de separation avec 3 tirets (la balise <hr/>  en HTML)
+
+
+
+#Les liens
+
+*[lien sur un site /une url ](https://www.google.com)
+
+*[Lien vers un autre fichier Github]
+(https:://github.com/Ma6tvacoder-Docs/exercicesJS/blob/master/readme.md)
+#Les images
+
+![Image du site GIPHY par ex.]https:/media.giphy.com/r97jJCEGEmh0I/giphy.gif
+
+Et il reste encore ....:octocat:...
+
+#Les tableaux
+
+On separe les cellules sur la meme ligne avec un PIPE(alt gr +6)
+
+Boisson|Gout|Prix
+---|---|---
+Eau|neutre|0.10E
+Coca|plantes|2.10E
+Orangina|orange|2.10E
+Lait ||1 E
+Emoticones|:imp:|quoi?
+
+
+
+
